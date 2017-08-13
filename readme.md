@@ -31,7 +31,7 @@ You need to install and configure this first:
 
 1. Extract to web root folder (eq: /var/www/html => Ubuntu) or clone this repository
 2. Intall using composer
-    * <pre>
+    <pre>
         $ composer install
     </pre>
 3. Create database (you can do it with mysql console or phpMyAdmin)
